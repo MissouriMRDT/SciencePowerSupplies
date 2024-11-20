@@ -3254,7 +3254,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 223.012 101.6 90)
 			(effects
 				(font
@@ -3263,7 +3263,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-0716K2L/726967"
 			(at 224.79 101.6 0)
 			(effects
 				(font
@@ -4003,7 +4003,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 223.012 77.47 90)
 			(effects
 				(font
@@ -4012,7 +4012,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-3EKF1004V/196033"
 			(at 224.79 77.47 0)
 			(effects
 				(font
@@ -4072,7 +4072,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 223.012 68.58 90)
 			(effects
 				(font
@@ -4081,7 +4081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-071M5L/726865"
 			(at 224.79 68.58 0)
 			(effects
 				(font
@@ -4693,7 +4693,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 223.012 86.36 90)
 			(effects
 				(font
@@ -4702,7 +4702,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-3EKF1004V/196033"
 			(at 224.79 86.36 0)
 			(effects
 				(font
@@ -4932,7 +4932,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 178.308 101.6 90)
 			(effects
 				(font
@@ -4941,7 +4941,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-3BWFR020V/5647494"
 			(at 176.53 101.6 0)
 			(effects
 				(font
